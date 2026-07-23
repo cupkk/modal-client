@@ -46,7 +46,7 @@ the `cbor2` Python package installed in their image.
 
 See below for a list of all changes in
 [JavaScript/TypeScript](#javascripttypescript) and [Go](#go). See also the
-updated examples in [JS](./modal-js/examples) and [Go](./modal-go/examples) for
+updated examples in [JS](./js/examples) and [Go](./go/examples) for
 a sense of how the API has changed.
 
 ## JavaScript/TypeScript
